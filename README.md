@@ -8,6 +8,8 @@
 
 ---
 
+## This is not tested! Use with caution!
+
 [STEP files for the case](case/)
 
 [KiCAD PCB files](pcb/)
