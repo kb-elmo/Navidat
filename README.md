@@ -4,11 +4,11 @@
 
 ### Full navigation keypad
 
+## This is not tested! Use with caution!
+
 <img src="https://i.imgur.com/bkWfpMq.png" alt="header" width="800"/>
 
 ---
-
-## This is not tested! Use with caution!
 
 [STEP files for the case](case/)
 
