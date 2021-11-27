@@ -4,8 +4,6 @@
 
 ### Full navigation keypad
 
-## This is not tested! Use with caution!
-
 <img src="https://i.imgur.com/bkWfpMq.png" alt="header" width="800"/>
 
 ---
